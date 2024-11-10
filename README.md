@@ -24,7 +24,7 @@ The project is organized into two main folders:
 
 ### 1. Clone the Repository
 ``` bash
-git clone https://github.com/yourusername/ShopEZ.git
+git clone https://github.com/JosanGeorge/NM_Mern_Stack-ShopEZ.git
 cd ShopEZ
 ```
 
