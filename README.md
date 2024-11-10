@@ -23,38 +23,46 @@ The project is organized into two main folders:
 ## Installation
 
 ### 1. Clone the Repository
+``` bash
 git clone https://github.com/yourusername/ShopEZ.git
 cd ShopEZ
+```
 
 ### 2. Install Dependencies
 #### Server
+``` bash
 cd server
 npm install
+```
 
 #### Client
+``` bash
 cd ../client
 npm install
+```
 
 ## Environment Variables
 
 Add your own configuration in `.env` in the root of the **server** folder. Here’s an example of the `.env` file:
-MONGO_URI=<Your MongoDB URI>
-JWT_SECRET=<Your JWT Secret>
-CLIENT_URL=<Your Frontend URL>
+```
+DRIVER_LINK = mongodb+srv://username:password@url/ShopEZ?retryWrites=true&w=majority&appName=Cluster
+```
 
 ## Usage
 
 ### Running the Server
 The server runs on port 6001.
-bash
+``` bash
 cd server
 node index.js
+```
 
 ### Running the Client
 The client will start on port 3000 by default.
-bash
+``` bash
 cd client
 npm start
+```
 
 ## Features
 
