@@ -29,6 +29,7 @@ cd NM_Mern_Stack-ShopEZ
 ```
 
 ### 2. Install Dependencies
+IGNORE THE ERRORS WHEN INSTALLING, CONTINUE TO RUN THE APPLICATION
 #### Server
 ``` bash
 cd server
@@ -49,7 +50,7 @@ DRIVER_LINK = mongodb+srv://username:password@url/ShopEZ?retryWrites=true&w=majo
 ```
 
 ## Usage
-
+IF YOU STILL ENCOUNTER ANY ERRORS WHILE RUNNING THE SERVER OR CLIENT, REMOVE THE NODE_MODULES FOLDER AND RUN `npm install`. NOW TRY AGAIN, IT WILL WORK
 ### Running the Server
 The server runs on port 6001.
 ``` bash
