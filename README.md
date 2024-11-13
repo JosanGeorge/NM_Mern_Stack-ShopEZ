@@ -11,6 +11,7 @@ ShopEZ is a full-stack e-commerce application built using the MERN stack (MongoD
    - [User Features](#user-features)
    - [Admin Features](#admin-features)
 6. [Tech Stack](#tech-stack)
+7. [Demo Video](#demo-video)
 
 ---
 
@@ -106,6 +107,9 @@ npm start
 - **Frontend**: React, CSS
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
+
+## Demo Video
+https://drive.google.com/drive/folders/1MGB5gYFvFIgLMBcfhO4q8ITGq3pMut8c
 
 ---
 
