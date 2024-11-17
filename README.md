@@ -150,7 +150,9 @@ npm start
 - **Database**: MongoDB
 
 ## Demo Video
-https://drive.google.com/drive/folders/1MGB5gYFvFIgLMBcfhO4q8ITGq3pMut8c
+- Watch a quick demo showcasing the installation process, as well as the features and functionalities of the ShopEZ Ecommerce Application. The demo will cover both user and admin functionalities.
+  
+[[Click Here For The Demo]] (https://drive.google.com/drive/folders/1MGB5gYFvFIgLMBcfhO4q8ITGq3pMut8c)
 
 ---
 
